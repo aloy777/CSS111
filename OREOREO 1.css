@@ -6,7 +6,7 @@ a:hover {
   color: #040d63;
 }
 .color-1 {
-  background-color: #040d63;
+  background-color: #020949;
 }
 .color-2 {
   background-color: #040d63;
@@ -21,7 +21,7 @@ a:hover {
   background-color: #040d63;
 }
 .color-6 {
-  background-color: #2ee416;
+  background-color: #01caf8;
 }
 .text-justify {
   text-align: justify;
@@ -63,7 +63,7 @@ i.icon {
   margin-right: -1rem;
 }
 .btn-slide {
-  background: #c5d305;
+  background: #070c1e;
 }
 .list-group-item .provider-thumbnail {
   display: block;
@@ -80,7 +80,7 @@ i.icon {
 }
 .list-group-item-action:focus,
 .list-group-item-action:hover {
-  background-color: #f0e007;
+  background-color: #040d63;
 }
 .list-group-item.active a {
   background-color: #040d63;
