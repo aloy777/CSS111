@@ -76,16 +76,16 @@ i.icon {
   font-weight: 700;
 }
 .list-group-item {
-  border-bottom: 1px solid #ecdd0c;
+  border-bottom: 1px solid #040d63;
 }
 .list-group-item-action:focus,
 .list-group-item-action:hover {
   background-color: #f0e007;
 }
 .list-group-item.active a {
-  background-color: #6b640800;
+  background-color: #040d63;
   border: none;
-  color: #ffffff;
+  color: #040d63;
 }
 .card.card-game {
   display: block;
@@ -94,7 +94,7 @@ i.icon {
   width: calc((100% - (5px * 3 * 2)) / 3);
   margin: 5px;
   padding: 5px;
-  background-color: #353535;
+  background-color: #040d63;
   border-radius: 10px;
   position: relative;
 }
@@ -141,7 +141,7 @@ i.icon {
 }
 .jam {
   color: #fff;
-  background: #252525;
+  background: #040d63;
   border-radius: 10px;
   font-weight: bold;
   text-align: center;
@@ -168,7 +168,7 @@ i.icon {
 .btn-game {
   padding: 3px 8px;
   color: #000;
-  background: #918e04;
+  background: #040d63;
   border-radius: 2px;
   font-weight: 700;
   font-size: 12px;
@@ -192,7 +192,7 @@ input#search {
   width: 100%;
   outline: none;
   border: 0;
-  background-color: #c5c3be;
+  background-color: #040d63;
   color: #fff;
   font-size: 0.775rem;
   font-family: inherit;
@@ -225,7 +225,7 @@ input#search {
   align-items: stretch;
 }
 .game-item {
-  background: #2a2b2a;
+  background: #040d63;
   height: 0;
   position: relative;
   padding-bottom: 66.44186%;
@@ -257,7 +257,7 @@ input#search {
   color: #fff;
 }
 .carousel-game {
-  background: #222222;
+  background: #040d63;
   border-radius: 3px;
 }
 .carousel-game .col {
@@ -304,7 +304,7 @@ input#search {
   overflow: hidden;
   line-height: 0;
   font-size: 0.5rem;
-  background-color: #171817;
+  background-color: #040d63;
   border-radius: 0 0 10px 10px;
   position: relative;
   z-index: 1;
