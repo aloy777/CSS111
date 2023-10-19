@@ -39,7 +39,7 @@ a:hover {
   min-width: 0;
   word-wrap: break-word;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  border: 1px solid rgba(9, 1, 131, 0.76);
   border-radius: 0.25rem;
 }
 i.icon {
@@ -63,7 +63,7 @@ i.icon {
   margin-right: -1rem;
 }
 .btn-slide {
-  background: #070c1e;
+  background: #081853;
 }
 .list-group-item .provider-thumbnail {
   display: block;
